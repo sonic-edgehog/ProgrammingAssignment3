@@ -24,5 +24,8 @@ There are five main groups of the features with the following description:
 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 # Instructions
-1. Run the script in run_analysis.R
-2. Validate if the tidyData.txt is the same as the resulting file.
+1. Download the run_analysis.R file to the R studio or R only.
+2. Change the working directory to your preferred location.
+3. Run the script using the Ctrl+R command or click the Run button.
+4. Run the run_analysis.R file to get the tidyData.txt
+5. Validate if the tidyData.txt is the same as the resulting file.
