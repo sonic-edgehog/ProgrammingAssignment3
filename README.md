@@ -9,4 +9,7 @@ The repository contains the following:
 4. A script that runs the analysis as described in the cookbook.
 
 # Instructions
-1. Run the run_analysis.R file to get the tidyData.txt
+1. Download the run_analysis.R file to the R studio or R only.
+2. Change the working directory to your preferred location.
+3. Run the script using the Ctrl+R command or click the Run button.
+4. Run the run_analysis.R file to get the tidyData.txt
